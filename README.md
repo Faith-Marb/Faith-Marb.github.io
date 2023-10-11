@@ -40,7 +40,7 @@
 
 
      <h1> ABOUT ME:</h1>
-     <H3> I am a Liberian that been living in Jersey ever since I came into this country. I love learning new things and meeting new people. I am a web developer in the making  with a passion for bulding beautiful and user friendly websites. I have a good decent understanding of both front-end and back-end development. I am a quick learner and a team player. I am pretty sure I can be a valuable asset to any web development team. I would love to work for a company that will help be built my skills and make be a better developer.</H3>
+     <H3> I am a Liberian that been living in Jersey ever since I came into this country. I love learning new things and meeting new people. I am a web developer in the making  with a passion for bulding beautiful and user friendly websites. I have a good decent understanding of both front-end and back-end development. I am a quick learner and a team player. I am pretty sure I can be a valuable asset to any web development team. I would love to work for a company that will help me built my skills and make be a better developer.</H3>
      <h3> I am currently in the works of getting my certificate in Web Developer from We Can Code it.</h3></h1>
 
      <h1> MY SKILLS:</h1>
@@ -52,6 +52,8 @@
     <li>CSS</li>
     <li>Mac</li>
     <li>Microsoft</li>
+    <li>FullStack Java</li>
+    <li>JaveScript</li>
     
     
     </ul>
